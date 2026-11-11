@@ -61,6 +61,7 @@ Additional analysis includes attendance trends, department-wise attendance, empl
 ## Project Files
 
 - Power BI Dashboard (.pbix)
+![][WORKFORCE-OVERVIEW-01]
 - Dashboard Screenshots
 - Project Documentation
 
