@@ -25,6 +25,7 @@ This section provides an overview of employee information, including:
 
 ![](DASHBOARD/WORKFORCE-OVERVIEW-01.png)
 ![](DASHBOARD/WORKFORCE-OVERVIEW-02.png)
+![](DASHBOARD/WORKFORCE-OVERVIEW.png)
 
 ### 2. Employee Attendance & Absenteeism Analysis
 
@@ -41,6 +42,10 @@ Key metrics include:
 - Average Late Minutes: 20
 
 Additional analysis includes attendance trends, department-wise attendance, employee absenteeism, and late-arrival analysis.
+
+![](DASHBOARD/ATTENDANCE-OVERVIEW.png)
+![](DASHBOARD/EMP-LATE-OVERVIEW.png)
+![](DASHBOARD/KPIS.png)
 
 ## Tools & Technologies
 
