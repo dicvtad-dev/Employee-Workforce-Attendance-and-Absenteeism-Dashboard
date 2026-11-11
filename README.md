@@ -23,8 +23,8 @@ This section provides an overview of employee information, including:
 - Average Monthly Salary
 - Average Performance Rating
 
-![](WORKFORCE-OVERVIEW-01.png)
-![](WORKFORCE-OVERVIEW-02.png)
+![](DASHBOARD/WORKFORCE-OVERVIEW-01.png)
+![](DASHBOARD/WORKFORCE-OVERVIEW-02.png)
 
 ### 2. Employee Attendance & Absenteeism Analysis
 
