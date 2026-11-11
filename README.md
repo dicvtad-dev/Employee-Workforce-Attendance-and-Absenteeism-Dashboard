@@ -23,6 +23,9 @@ This section provides an overview of employee information, including:
 - Average Monthly Salary
 - Average Performance Rating
 
+![](WORKFORCE-OVERVIEW-01.png)
+![](WORKFORCE-OVERVIEW-02.png)
+
 ### 2. Employee Attendance & Absenteeism Analysis
 
 This section focuses on employee attendance records and absence patterns.
@@ -61,7 +64,6 @@ Additional analysis includes attendance trends, department-wise attendance, empl
 ## Project Files
 
 - Power BI Dashboard (.pbix)
-![][WORKFORCE-OVERVIEW-01]
 - Dashboard Screenshots
 - Project Documentation
 
